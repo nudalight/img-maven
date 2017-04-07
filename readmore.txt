@@ -1,0 +1,2 @@
+awesome compression article
+https://addyosmani.com/blog/image-optimization-tools/
